@@ -1,1 +1,2 @@
 fichier6.txt »
+modifer le f6 in github
